@@ -1,13 +1,13 @@
 [
   { 
     "author" : "Angom8", 
-    "name" : "ParmaStone", 
+    "name" : "estebnab", 
     "keyWords" : "parma,parme", 
     "version" : "1.0.0", 
     "dofusVersion" : "2.37", 
-    "description" : "Le thème de base adouci et parme / rose (avec quelques changements)", 
+    "description" : "Le thÃ¨me de base adouci et parme / rose (avec quelques changements)", 
     "url" : "https://github.com/Angom8/gomstheme/raw/master/parmastone.zip", 
-    "previewUrl" : "https://raw.githubusercontent.com/Angom8/gomstheme/master/parmastone.PNG", 
+    "previewUrl" : "https://www.google.com.co/search?q=imagenes+php&espv=2&biw=1455&bih=722&tbm=isch&imgil=LzYxDbQNQNLr5M%253A%253B7L4nsl4zLqa6mM%253Bhttp%25253A%25252F%25252Fwww.elwebmaster.com%25252Ftag%25252Fphp&source=iu&pf=m&fir=LzYxDbQNQNLr5M%253A%252C7L4nsl4zLqa6mM%252C_&usg=__ajXc7kUsbkLReh8uq15jitvmwj0%3D&ved=0ahUKEwjMnZCyl5zRAhXGQyYKHUsHBY4QyjcIMQ&ei=inZmWMywA8aHmQHLjpTwCA#imgrc=LzYxDbQNQNLr5M%3A", 
     "creationDate" : "14/09/2016", 
     "modificationDate" : "14/10/2016"  
   },
@@ -17,7 +17,7 @@
     "keyWords" : "blue,bleu", 
     "version" : "1.0.0", 
     "dofusVersion" : "2.37", 
-    "description" : "Le thème de base adouci et bleu eliotrope (avec quelques changements)", 
+    "description" : "Le thÃ¨me de base adouci et bleu eliotrope (avec quelques changements)", 
     "url" : "https://github.com/Angom8/gomstheme/raw/master/eliostone%20v2.zip", 
     "previewUrl" : "https://raw.githubusercontent.com/Angom8/gomstheme/master/eliostonev2.PNG", 
     "creationDate" : "16/09/2016", 
